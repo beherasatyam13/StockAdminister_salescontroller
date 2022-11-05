@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T10:04:13 IST" name="Default suite" finished-at="2022-11-05T10:04:18 IST" duration-ms="4509">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T10:04:13 IST" name="Default test" finished-at="2022-11-05T10:04:18 IST" duration-ms="4509">
+      <class name="CurdOperation.DeleteWithBDD">
+        <test-method signature="DeleteWithBDD()[pri:0, instance:CurdOperation.DeleteWithBDD@574b560f]" started-at="2022-11-05T10:04:14 IST" name="DeleteWithBDD" finished-at="2022-11-05T10:04:18 IST" duration-ms="4388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteWithBDD -->
+      </class> <!-- CurdOperation.DeleteWithBDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
